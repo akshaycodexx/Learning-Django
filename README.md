@@ -2,7 +2,9 @@
 
 *step2:* Download Django using   *[  pip install Django  ] *
 
-*step3:* Create a file using     *[  django-admin startproject myproject ]*
+*step3:* Create a file using 
+
+        -run this command *[  django-admin startproject myproject ]*
 
 *ste4:* if you run the Django 
 
