@@ -31,8 +31,12 @@ DAY3:
 
 This allows your Django app to interact with the database and store data according to your defined schema.</p> 
 
-    -python manage.py migrate
+    python manage.py migrate
 
+
+    
+
+![Screenshot 2024-07-22 184643](https://github.com/user-attachments/assets/e4d43cf5-dec5-438b-a947-7d1581ff468e)
 
 
 
