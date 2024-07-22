@@ -27,9 +27,9 @@ DAY3:
 
 "this is the defult database of Django "
 
-<ins> When you run migrate, Django will create the necessary tables, columns, and relationships in the database based on your model definitions. 
+<ins> When you run migrate, Django will create the necessary tables, columns, and relationships in the database based on your model definitions. </ins> 
 
-This allows your Django app to interact with the database and store data according to your defined schema.</ins>
+This allows your Django app to interact with the database and store data according to your defined schema.
 
     -python manage.py migrate
 
