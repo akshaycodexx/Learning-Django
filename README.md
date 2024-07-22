@@ -21,6 +21,20 @@ DAy2:
 
 ![Screenshot 2024-07-22 183031](https://github.com/user-attachments/assets/0c9abf7e-eeb0-4cf1-90d3-72d100052ef0)
 
+DAY3:
+
+*What_is_sq_lite*
+
+"this is the defult database of Django "
+
+<ins> When you run migrate, Django will create the necessary tables, columns, and relationships in the database based on your model definitions. 
+
+This allows your Django app to interact with the database and store data according to your defined schema.</ins>
+
+    -python manage.py migrate
+
+
+
 
 
 
